@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Prajapati
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js| Tailwindcss
+- 🌱 I’m currently learning React Js | Tailwindcss
 - 📫 How to reach me kiranprajapati6334@gmail.com
 - ⚡ Fun fact: I love to listen music and making sketch
 
